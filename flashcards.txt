@@ -1,0 +1,3 @@
+# Flashcard format: question|answer
+# Add your questions below, one per line
+What's 9 + 10|21
